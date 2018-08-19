@@ -1,4 +1,7 @@
 #include <iostream>
+#include <vector>
+#include <string>
+
 using namespace std;
 
 template<typename E> 
