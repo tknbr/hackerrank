@@ -22,7 +22,7 @@ You will be given two arrays of integers and asked to determine all integers tha
 
 [Link to Hackerrank](https://www.hackerrank.com/challenges/between-two-sets/problem)
 
-## [Between Two Sets](https://github.com/tknbr/hackerrank/blob/master/Problem%20Solving/breaking_the_records.cc)
+## [Breaking the records](https://github.com/tknbr/hackerrank/blob/master/Problem%20Solving/breaking_the_records.cc)
 
 Maria plays college basketball and wants to go pro. Each season she maintains a record of her play. She tabulates the number of times she breaks her season record for most points and least points in a game. Points scored in the first game establish her record for the season, and she begins counting from there.
 For example, assume her scores for the season are represented in the array scores = [12, 24, 10, 24]. Scores are in the same order as the games played.
