@@ -30,3 +30,9 @@ Given Maria's scores for a season, find and print the number of times she breaks
 
 [Link to Hackerrank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 
+## [Breaking the records](https://github.com/tknbr/hackerrank/blob/master/Problem%20Solving/birthday_chocolate.cc)
+
+Lily has a chocolate bar that she wants to share it with Ron for his birthday. Each of the squares has an integer on it. She decides to share a contiguous segment of the bar selected such that the length of the segment matches Ron's birth month and the sum of the integers on the squares is equal to his birth day. You must determine how many ways she can divide the chocolate.
+
+[Link to Hackerrank](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+
