@@ -51,5 +51,12 @@ You have been asked to help study the population of birds migrating across the c
 ## [2D array DS](https://github.com/tknbr/hackerrank/blob/master/Problem%20Solving/2d_array_ds.cc)
 
 
-[Link to Hackerrank](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=hackerrank)
+[Link to Hackerrank](https://www.hackerrank.com/challenges/2d-array/problem)
+
+
+## [Luck balance](https://github.com/tknbr/hackerrank/blob/master/Problem%20Solving/luck_balance.cc)
+
+Lena is preparing for an important coding competition that is preceded by a number of sequential preliminary contests. She believes in "saving luck", and wants to check her theory. 
+
+[Link to Hackerrank](https://www.hackerrank.com/challenges/luck-balance/problem)
 
